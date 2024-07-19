@@ -9,7 +9,7 @@
     font-display: swap;
 }
 
-OngleapDopaminJoongdok {
+.OngleapDopaminJoongdok {
     font-family: "OngleapDopaminJoongdok";
 }
   
